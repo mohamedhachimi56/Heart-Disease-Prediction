@@ -16,10 +16,8 @@ This project implements a Decision Tree classifier for predicting heart disease 
 - Saving trained model for reuse.
 
 ## Installation and Usage
-1. Clone the repo:
-git clone https://github.com/mohamedhachimi56/HeartDiseasePredictor.git
-2. Navigate to project directory and install dependencies: pip install -r requirements.txt
-3. python script/main.py
+1. Navigate to project directory and install dependencies: pip install -r requirements.txt
+2. python script/main.py
    
 ## Results
 - The model achieves around 80% accuracy in predicting heart disease.
