@@ -17,7 +17,7 @@ This project implements a Decision Tree classifier for predicting heart disease 
 
 ## Installation and Usage
 1. Clone the repo:
-git clone https://github.com/mohamedhachimi/HeartDiseasePredictor.git
+git clone https://github.com/mohamedhachimi56/HeartDiseasePredictor.git
 2. Navigate to project directory and install dependencies: pip install -r requirements.txt
 3. python script/main.py
    
